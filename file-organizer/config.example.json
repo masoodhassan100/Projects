@@ -1,0 +1,6 @@
+{
+  "Music": [".mp3", ".wav", ".flac"],
+  "Screenshots": [".png"],
+  "Ebooks": [".epub", ".mobi", ".azw3"],
+  "Design": [".psd", ".ai", ".fig", ".sketch"]
+}
